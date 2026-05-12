@@ -17,6 +17,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 27-04-2026 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium 🟡 | Array | [View Code](./442-Find-All-Duplicates-in-an-Array.cpp) |
 | 30-04-2026 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy 🟢 | Math | [View Code](./9-Palindrome-Number.cpp) |
 | 12-05-2026 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | medium 🟡 | Binary Search | [View Code](./852-Peak-Index-in-a-Mountain-Array.cpp) | 
+| 12-05-2026 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy 🟢 | Prefix Sum | [View Code](./724-Find-Pivot-Index.cpp) | 
 
 ---
 
