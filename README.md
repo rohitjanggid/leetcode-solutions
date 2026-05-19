@@ -18,6 +18,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 30-04-2026 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy 🟢 | Math | [View Code](./9-Palindrome-Number.cpp) |
 | 12-05-2026 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | medium 🟡 | Binary Search | [View Code](./852-Peak-Index-in-a-Mountain-Array.cpp) | 
 | 12-05-2026 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy 🟢 | Prefix Sum | [View Code](./724-Find-Pivot-Index.cpp) | 
+| 13-05-2026 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy 🟢 | Binary Search | [View Code](./69-Sqrt-of-x.cpp) | 
+
 
 ---
 
