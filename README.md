@@ -21,6 +21,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 13-05-2026 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy 🟢 | Binary Search | [View Code](./69-Sqrt-of-x.cpp) | 
 | 19-05-2026 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy 🟢 | Two Pointers | [View Code](88-Merge-Sorted-Array.cpp) | 
 | 19-05-2026 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy 🟢 | Two Pointers | [View Code](./283-Move-Zeroes.cpp) | 
+| 20-05-2026 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | medium 🟡 | Array | [View Code](./189-Rotate-Array.cpp) | 
 
 ---
 
