@@ -27,7 +27,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 22-05-2026 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy 🟢 | Two Pointers | [View Code](./125-Valid-Palindrome.cpp) |
 | 23-05-2026 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Easy 🟢 | String | [View Code](./1910-Remove-All-Occurrences-of-a-Substring.cpp) | 
 | 23-05-2026 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium 🟡 | Sliding Window | [View Code](./567-Permutation-in-String.cpp) |
-
+| 23-05-2026 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy 🟢 | String | [View Code](./1047-Remove-All-Adjacent-Duplicates-In-String.cpp) |  
 ---
 
 ## 💡 How I solve these problems
