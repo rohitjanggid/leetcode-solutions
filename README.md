@@ -16,16 +16,17 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 26-04-2026 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy 🟢 | Array | [View Code](./1207-Unique-Number-of-Occurrences.cpp) | 
 | 27-04-2026 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium 🟡 | Array | [View Code](./442-Find-All-Duplicates-in-an-Array.cpp) |
 | 30-04-2026 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy 🟢 | Math | [View Code](./9-Palindrome-Number.cpp) |
-| 12-05-2026 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | medium 🟡 | Binary Search | [View Code](./852-Peak-Index-in-a-Mountain-Array.cpp) | 
+| 12-05-2026 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Medium 🟡 | Binary Search | [View Code](./852-Peak-Index-in-a-Mountain-Array.cpp) | 
 | 12-05-2026 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy 🟢 | Prefix Sum | [View Code](./724-Find-Pivot-Index.cpp) | 
 | 13-05-2026 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy 🟢 | Binary Search | [View Code](./69-Sqrt-of-x.cpp) | 
 | 19-05-2026 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy 🟢 | Two Pointers | [View Code](88-Merge-Sorted-Array.cpp) | 
 | 19-05-2026 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy 🟢 | Two Pointers | [View Code](./283-Move-Zeroes.cpp) | 
-| 20-05-2026 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | medium 🟡 | Array | [View Code](./189-Rotate-Array.cpp) | 
+| 20-05-2026 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium 🟡 | Array | [View Code](./189-Rotate-Array.cpp) | 
 | 20-05-2026 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy 🟢 | Array Traversal | [View Code](./1752-Check-if-Array-Is-Sorted-and-Rotated.cpp\) | 
 | 22-05-2026 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy 🟢 | Two Pointers | [View Code](./344-Reverse-String.cpp) | 
 | 22-05-2026 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy 🟢 | Two Pointers | [View Code](./125-Valid-Palindrome.cpp) |
 | 23-05-2026 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Easy 🟢 | String | [View Code](./1910-Remove-All-Occurrences-of-a-Substring.cpp) | 
+| 23-05-2026 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium 🟡 | Sliding Window | [View Code](./567-Permutation-in-String.cpp) |
 
 ---
 
