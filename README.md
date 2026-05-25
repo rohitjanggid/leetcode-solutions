@@ -31,7 +31,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 23-05-2026 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium 🟡 | Two Pointers | [View Code](./443-String-Compression.cpp) |
 | 24-05-2026 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium 🟡 | Matrix | [View Code](./54-Spiral-Matrix.cpp) |
 | 25-05-2026 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium 🟡 | Matrix | [View Code](./48-Rotate-Image.cpp) | 
-| 25-05-2026 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium 🟡 | [View Code](./74-Search-a-2D-Matrix.cpp) | 
+| 25-05-2026 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium 🟡 | Binary Search | [View Code](./74-Search-a-2D-Matrix.cpp) | 
+| 25-05-2026 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium 🟡 | Binary Search | [View Code](./240-Search-a-2D-Matrix-II.cpp) |
 
 ---
 
