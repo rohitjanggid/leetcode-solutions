@@ -29,7 +29,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 23-05-2026 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium 🟡 | Sliding Window | [View Code](./567-Permutation-in-String.cpp) |
 | 23-05-2026 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy 🟢 | String | [View Code](./1047-Remove-All-Adjacent-Duplicates-In-String.cpp) | 
 | 23-05-2026 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium 🟡 | Two Pointers | [View Code](./443-String-Compression.cpp) |
-| 24-05-2026 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium 🟡 | Martix | [View Code](./54-Spiral-Matrix.cpp) |
+| 24-05-2026 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium 🟡 | Matrix | [View Code](./54-Spiral-Matrix.cpp) |
+| 25-05-2026 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium 🟡 | Matrix | [View Code](./48-Rotate-Image.cpp) | 
 
 ---
 
