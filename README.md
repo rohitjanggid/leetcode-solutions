@@ -34,6 +34,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 25-05-2026 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium 🟡 | Binary Search | [View Code](./74-Search-a-2D-Matrix.cpp) | 
 | 25-05-2026 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium 🟡 | Binary Search | [View Code](./240-Search-a-2D-Matrix-II.cpp) |
 | 26-05-2026 | 204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium 🟡 | Math | [View Code](./204-Count-Primes.cpp) |
+| 28-05-2026 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy 🟢 | Array | [View Code](./1-Two-Sum.cpp) | 
 
 ---
 
