@@ -38,6 +38,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 29-05-2026 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy 🟢 | Two Pointer | [View Code](./121-Best-Time-to-Buy-and-Sell-Stock.cpp) | 
 | 30-05-2026 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium 🟡 | Two Pointer | [View Code](./11-Container-With-Most-Water.cpp) | 
 | 31-05-2026 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium 🟡 | Array | [View Code](./53-Maximum-Subarray.cpp) |
+| 01-06-2026 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy 🟢 | Matrix | [View Code](./1572-Matrix-Diagonal-Sum.cpp)|
 
 ---
 
