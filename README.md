@@ -41,6 +41,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 01-06-2026 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy 🟢 | Matrix | [View Code](./1572-Matrix-Diagonal-Sum.cpp)|
 | 02-06-2026 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy 🟢 | Array | [View Code](./27-Remove-Element.cpp) |
 | 03-06-2026 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy 🟢 | Binary Search | [View Code](./35-Search-Insert-Position.cpp) |
+| 03-06-2026 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy 🟢 | Recursion | [View Code](./509-Fibonacci-Number.cpp) | 
 
 ---
 
