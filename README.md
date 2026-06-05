@@ -43,6 +43,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 03-06-2026 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy 🟢 | Binary Search | [View Code](./35-Search-Insert-Position.cpp) |
 | 03-06-2026 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy 🟢 | Recursion | [View Code](./509-Fibonacci-Number.cpp) |
 | 04-06-2026 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium 🟡 | Prefix sum | [View Code](./238-Product-of-Array-Except-Self.cpp) |
+| 05-06-2026 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium 🟡 | Three Pointers | [View Code](./75-Sort-Colors.cpp) | 
 
 ---
 
