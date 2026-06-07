@@ -45,6 +45,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 04-06-2026 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium 🟡 | Prefix sum | [View Code](./238-Product-of-Array-Except-Self.cpp) |
 | 05-06-2026 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium 🟡 | Three Pointers | [View Code](./75-Sort-Colors.cpp) | 
 | 06-06-2026 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy 🟢 | Counting | [View Code](./169-Majority-Element.cpp) | 
+| 07-06-2026 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy 🟢 | Array | [View Code](./217-Contains-Duplicate.cpp) | 
 
 ---
 
