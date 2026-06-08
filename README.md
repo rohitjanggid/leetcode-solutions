@@ -47,6 +47,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 06-06-2026 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy 🟢 | Counting | [View Code](./169-Majority-Element.cpp) | 
 | 07-06-2026 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy 🟢 | Array | [View Code](./217-Contains-Duplicate.cpp) | 
 | 08-06-2026 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy 🟢 | Array | [View Code](./242-Valid-Anagram.cpp) | 
+| 08-06-2026 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy 🟢 | Array | [View Code](./1929-Concatenation-of-Array.cpp) |
 
 ---
 
