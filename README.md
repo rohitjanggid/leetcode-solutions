@@ -50,6 +50,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 08-06-2026 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy 🟢 | Array | [View Code](./1929-Concatenation-of-Array.cpp) |
 | 08-06-2026 | 78 | [Subsets](https://leetcode.com/problems/subsets) | Medium 🟡 | Array | [View Code](./78-Subsets.cpp) |
 | 09-06-2026 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description) | Easy 🟢 | Array | [View Code](./1295-Find-Numbers-with-Even-Number-of-Digits.cpp) |
+| 09-06-2026 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description) | Easy 🟢 | Array | [View Code](./1480-Running-Sum-of-1d-Array.cpp) |
 
 ---
 
