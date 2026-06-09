@@ -48,7 +48,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 07-06-2026 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy 🟢 | Array | [View Code](./217-Contains-Duplicate.cpp) | 
 | 08-06-2026 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy 🟢 | Array | [View Code](./242-Valid-Anagram.cpp) | 
 | 08-06-2026 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy 🟢 | Array | [View Code](./1929-Concatenation-of-Array.cpp) |
-| 09-06-2026 | 78 | [Subsets](https://leetcode.com/problems/subsets) | Medium 🟡 | Array | [View Code](./78-Subsets.cpp) |
+| 08-06-2026 | 78 | [Subsets](https://leetcode.com/problems/subsets) | Medium 🟡 | Array | [View Code](./78-Subsets.cpp) |
+| 09-06-2026 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description) | Easy 🟢 | Array | [View Code](./1295-Find-Numbers-with-Even-Number-of-Digits.cpp) |
 
 ---
 
