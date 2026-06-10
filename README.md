@@ -53,6 +53,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 09-06-2026 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description) | Easy 🟢 | Array | [View Code](./1480-Running-Sum-of-1d-Array.cpp) |
 | 09-06-2026 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) | Medium 🟡 | String | [View Code](./17-Letter-Combinations-of-a-Phone-Number.cpp) |
 | 10-06-2026 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description) | Easy 🟢 | Array | [View Code](./1672-Richest-Customer-Wealth.cpp) |
+| 10-06-2026 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description) | Easy 🟢 | Array | [View Code](./26-Remove-Duplicates-from-Sorted-Array.cpp) |
 
 ---
 
