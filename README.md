@@ -52,6 +52,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 09-06-2026 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description) | Easy 🟢 | Array | [View Code](./1295-Find-Numbers-with-Even-Number-of-Digits.cpp) |
 | 09-06-2026 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description) | Easy 🟢 | Array | [View Code](./1480-Running-Sum-of-1d-Array.cpp) |
 | 09-06-2026 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) | Medium 🟡 | String | [View Code](./17-Letter-Combinations-of-a-Phone-Number.cpp) |
+| 10-06-2026 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description) | Easy 🟢 | Array | [View Code](./1672-Richest-Customer-Wealth.cpp) |
 
 ---
 
