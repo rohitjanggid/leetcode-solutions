@@ -55,6 +55,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 10-06-2026 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description) | Easy 🟢 | Array | [View Code](./1672-Richest-Customer-Wealth.cpp) |
 | 10-06-2026 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description) | Easy 🟢 | Array | [View Code](./26-Remove-Duplicates-from-Sorted-Array.cpp) |
 | 10-06-2026 | 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy 🟢 | Bit Manipulation | [View Code](./136-Single-Number.cpp) |
+| 10-06-2026 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium 🟡 | Backtraking | [View Code](./46-Permutations.cpp) |
 
 ---
 
