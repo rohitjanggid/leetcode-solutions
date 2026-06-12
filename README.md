@@ -58,6 +58,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 10-06-2026 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium 🟡 | Backtraking | [View Code](./46-Permutations.cpp) |
 | 11-06-2026 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy 🟢 | Array | [View Code](./977-Squares-of-a-Sorted-Array.cpp) | 
 | 11-06-2026 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy 🟢 | Two Pointers | [View Code](./392-Is-Subsequence.cpp) |
+| 12-06-2026 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy 🟢 | Sliding Window | [View Code](./643-Maximum-Average-Subarray-I.cpp) | 
 
 ---
 
