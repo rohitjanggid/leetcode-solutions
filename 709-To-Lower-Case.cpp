@@ -1,0 +1,24 @@
+#include<iostream>
+#include<string>
+
+using namespace std;
+
+class Solution {
+public:
+    string toLowerCase(string s) {
+        for(int i = 0; i<s.size(); i++){
+            if(s[i] <= 90 && s[i] >= 65){
+                s[i] = s[i]+32;
+            }
+        }
+        return s;
+    }
+};
+
+int main(){
+    Solution sol;
+
+    string s;
+    cin>>s;
+    cout<<sol.toLowerCase(s);
+}
