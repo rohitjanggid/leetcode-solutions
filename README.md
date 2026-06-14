@@ -61,6 +61,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 12-06-2026 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy 🟢 | Sliding Window | [View Code](./643-Maximum-Average-Subarray-I.cpp) | 
 | 13-06-2026 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy 🟢 | String | [View Code](./58-Length-of-Last-Word.cpp) | 
 | 13-06-2026 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy 🟢 | String | [View Code](./14-Longest-Common-Prefix.cpp) |
+| 14-06-2026 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy 🟢 | String | [View Code](./28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) |
 
 ---
 
