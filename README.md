@@ -65,6 +65,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 14-06-2026 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy 🟢 | String | [View Code](./709-To-Lower-Case.cpp) |
 | 15-06-2026 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy 🟢 | String | [View Code](./1108-Defanging-an-IP-Address.cpp) |
 | 15-06-2026 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy 🟢 | Array | [View Code](./1512-Number-of-Good-Pairs.cpp) | 
+| 16-06-2026 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy 🟢 | Array | [View Code](./448-Find-All-Numbers-Disappeared-in-an-Array.cpp) |
 
 ---
 
