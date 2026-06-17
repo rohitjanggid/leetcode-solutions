@@ -67,6 +67,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 15-06-2026 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy 🟢 | Array | [View Code](./1512-Number-of-Good-Pairs.cpp) | 
 | 16-06-2026 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy 🟢 | Array | [View Code](./448-Find-All-Numbers-Disappeared-in-an-Array.cpp) |
 | 17-06-2026 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy 🟢 | Array | [View Code](./118-Pascals-Triangle.cpp) |
+| 17-06-2026 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium 🟡 | Matrix | [View Code](./73-Set-Matrix-Zeroes.cpp) |
 
 ---
 
