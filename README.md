@@ -68,6 +68,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 16-06-2026 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy 🟢 | Array | [View Code](./448-Find-All-Numbers-Disappeared-in-an-Array.cpp) |
 | 17-06-2026 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy 🟢 | Array | [View Code](./118-Pascals-Triangle.cpp) |
 | 17-06-2026 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium 🟡 | Matrix | [View Code](./73-Set-Matrix-Zeroes.cpp) |
+| 18-06-2026 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy 🟢 | Array | [View Code](./268-Missing-Number.cpp) |
 
 ---
 
