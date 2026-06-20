@@ -69,7 +69,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 17-06-2026 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy 🟢 | Array | [View Code](./118-Pascals-Triangle.cpp) |
 | 17-06-2026 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium 🟡 | Matrix | [View Code](./73-Set-Matrix-Zeroes.cpp) |
 | 18-06-2026 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy 🟢 | Array | [View Code](./268-Missing-Number.cpp) |
-| 19-06-2026 | 80 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium 🟡 | Two Pointer | [View Code](./80-Remove-Duplicates-from-Sorted-Array-II.cpp) |
+| 19-06-2026 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium 🟡 | Two Pointer | [View Code](./80-Remove-Duplicates-from-Sorted-Array-II.cpp) |
+| 20-06-2026 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy 🟢 | Array | [View Code](./2215-Find-the-Difference-of-Two-Arrays.cpp) |
 
 ---
 
