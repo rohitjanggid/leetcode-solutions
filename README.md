@@ -73,6 +73,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 20-06-2026 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy 🟢 | Array | [View Code](./2215-Find-the-Difference-of-Two-Arrays.cpp) |
 | 22-06-2026 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy 🟢 | Two Pointers | [View Code](./905-Sort-Array-By-Parity.cpp) |
 | 23-06-2026 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy 🟢 | Two Pointers | [View Code](./345-Reverse-Vowels-of-a-String.cpp) |
+| 24-06-2026 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy 🟢 | Two Pointers | [View Code](./922-Sort-Array-By-Parity-II.cpp) | 
 
 ---
 
