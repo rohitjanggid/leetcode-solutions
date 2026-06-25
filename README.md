@@ -74,6 +74,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 22-06-2026 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy 🟢 | Two Pointers | [View Code](./905-Sort-Array-By-Parity.cpp) |
 | 23-06-2026 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy 🟢 | Two Pointers | [View Code](./345-Reverse-Vowels-of-a-String.cpp) |
 | 24-06-2026 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy 🟢 | Two Pointers | [View Code](./922-Sort-Array-By-Parity-II.cpp) | 
+| 25-06-2026 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | Easy 🟢 | Two Pointers | [View Code](./1332-Remove-Palindromic-Subsequences.cpp) |
 
 ---
 
