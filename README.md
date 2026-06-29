@@ -78,6 +78,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 26-06-2026 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy 🟢 | Math | [View Code](./2269-Find-the-K-Beauty-of-a-Number.cpp) |
 | 27-06-2026 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy 🟢 | String | [View Code](./2108-Find-First-Palindromic-String-in-the-Array.cpp) |
 | 28-06-2026 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy 🟢 | String | [View Code](./1662-Check-If-Two-String-Arrays-are-Equivalent.cpp) |
+| 29-06-2026 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy 🟢 | String | [View Code](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word.cpp) |
 
 ---
 
