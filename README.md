@@ -80,6 +80,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 28-06-2026 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy 🟢 | String | [View Code](./1662-Check-If-Two-String-Arrays-are-Equivalent.cpp) |
 | 29-06-2026 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy 🟢 | String | [View Code](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word.cpp) |
 | 30-06-2026 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy 🟢 | String | [View Code](./1816-Truncate-Sentence.cpp) |
+| 1-06-2026 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy 🟢 | Math | [View Code](./258-Add-Digits.cpp) |
 
 ---
 
