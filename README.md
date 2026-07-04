@@ -83,6 +83,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 01-07-2026 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy 🟢 | Math | [View Code](./258-Add-Digits.cpp) |
 | 02-07-2026 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy 🟢 | Recursion | [View Code](./202-Happy-Number.cpp) |
 | 03-07-2026 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy 🟢 | Math | [View Code](./1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp) |
+| 04-06-2026 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy 🟢 | Linked List | [View Code](./876-Middle-of-the-Linked-List.cpp) |
 
 ---
 
