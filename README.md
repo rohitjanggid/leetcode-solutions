@@ -88,6 +88,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 06-07-2026 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium 🟡 | Linked List | [View Code](./237-Delete-Node-in-a-Linked-List.cpp) |
 | 07-07-2026 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy 🟢 | Linked List | [View Code](./83-Remove-Duplicates-from-Sorted-List.cpp) |
 | 08-07-2026 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy 🟢 | Linked List | [View Code](./206-Reverse-Linked-List.cpp) | 
+| 08-07-2026 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy 🟢 | Linked List | [View Code](./21-Merge-Two-Sorted-Lists.cpp) | 
 
 ---
 
