@@ -87,6 +87,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 05-07-2026 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy 🟢 | Linked List | [View Code](./1290-Convert-Binary-Number-in-a-Linked-List-to-Integer.cpp) |
 | 06-07-2026 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium 🟡 | Linked List | [View Code](./237-Delete-Node-in-a-Linked-List.cpp) |
 | 07-07-2026 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy 🟢 | Linked List | [View Code](./83-Remove-Duplicates-from-Sorted-List.cpp) |
+| 08-07-2026 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy 🟢 | Linked List | [View Code](./206-Reverse-Linked-List.cpp) | 
 
 ---
 
