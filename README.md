@@ -91,6 +91,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 08-07-2026 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy 🟢 | Linked List | [View Code](./21-Merge-Two-Sorted-Lists.cpp) | 
 | 09-07-2026 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy 🟢 | Linked List | [View Code](./141-Linked-List-Cycle.cpp) | 
 | 10-07-2026 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy 🟢 | Linked List | [View Code](./234-Palindrome-Linked-List.cpp) | 
+| 11-07-2026 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy 🟢 | Linked List | [View Code](./160-Intersection-of-Two-Linked-Lists.cpp) |
 
 ---
 
