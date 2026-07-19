@@ -93,6 +93,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 10-07-2026 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy 🟢 | Linked List | [View Code](./234-Palindrome-Linked-List.cpp) | 
 | 11-07-2026 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy 🟢 | Linked List | [View Code](./160-Intersection-of-Two-Linked-Lists.cpp) |
 | 12-07-2026 | 504 | [Base 7](https://leetcode.com/problems/base-7) | Easy 🟢 | Math | [View Code](./504-Base-7.cpp) |
+| 19-07-2026 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy 🟢 | Array | [View Code](./1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cpp)
 
 ---
 
