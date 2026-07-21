@@ -95,6 +95,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 12-07-2026 | 504 | [Base 7](https://leetcode.com/problems/base-7) | Easy 🟢 | Math | [View Code](./504-Base-7.cpp) |
 | 19-07-2026 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy 🟢 | Array | [View Code](./1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cpp) |
 | 20-07-2026 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy 🟢 | Array | [View Code](./1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |
+| 21-07-2026 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy 🟢 | Array | [View Code](./1470-Shuffle-the-Array.cpp) |
+
 ---
 
 ## 💡 How I solve these problems
