@@ -97,6 +97,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 20-07-2026 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy 🟢 | Array | [View Code](./1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |
 | 21-07-2026 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy 🟢 | Array | [View Code](./1470-Shuffle-the-Array.cpp) |
 | 22-07-2026 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy 🟢 | Array | [View Code](./1732-Find-the-Highest-Altitude.cpp) |
+| 23-07-2026 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy 🟢 | String | [View Code](./925-Long-Pressed-Name.cpp) |
 
 ---
 
